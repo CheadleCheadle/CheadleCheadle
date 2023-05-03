@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Classroom](https://github.com/CheadleCheadle/Classroom)
 
-- 🌱 I’m currently learning **Typescript, Go, Data Structures, Algorithms**
+- 🌱 I’m currently learning **Typescript, Rust, Data Structures, Algorithms**
 
-- 💬 Ask me about **Go and Algorithms!**
+- 💬 Ask me about **Rust and Algorithms!**
 
 - 📫 How to reach me **cheadlegrant@gmail.com**
 
