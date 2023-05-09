@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, Rust, Data Structures, Algorithms**
 
-- 💬 Ask me about **Rust and Algorithms!**
+- 💬 Ask me about **Typescript and Algorithms!**
 
 - 📫 How to reach me **cheadlegrant@gmail.com**
 
