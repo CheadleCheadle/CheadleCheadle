@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Grant A. Cheadle</h1>
 
 
-- 🔭 I’m currently working on [Classroom](https://github.com/CheadleCheadle/Classroom)
+- 🔭 I’m currently working on [RustyDepths](https://github.com/CheadleCheadle/RustyDepths)
 
-- 🌱 I’m currently learning **Typescript, Rust, Data Structures, Algorithms**
+- 🌱 I’m currently learning **Rust, Typescript, Data Structures, Algorithms**
 
 - 💬 Ask me about **Typescript and Algorithms!**
 
