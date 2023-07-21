@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **cheadlegrant@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/grant-a-cheadle-0233771a7/)
 <p align="left">
 </p>
 
