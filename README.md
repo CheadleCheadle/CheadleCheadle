@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [RustyDepths](https://github.com/CheadleCheadle/RustyDepths)
 
-- 🌱 I’m currently learning **Rust, Typescript, Data Structures, Algorithms**
+- 🌱 I’m currently learning **Go, Typescript, Data Structures, Algorithms**
 
-- 💬 Ask me about **Typescript and Algorithms!**
+- 💬 Ask me about **Go!**
 
 - 📫 How to reach me **cheadlegrant@gmail.com**
 
