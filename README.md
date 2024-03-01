@@ -18,8 +18,8 @@
 <table>
   <tr>
     <th>Project ⚙️</th>
-    <th>Description 📝</th>
-    <th>Role 🧑‍🏭</th>
+    <th>Project's Charter 📝</th>
+    <th>My role 🧑‍🏭</th>
   </tr>
   <tr>
     <td><a href="https://github.com/mochajs/mocha">mocha</a></td>
