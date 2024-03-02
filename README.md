@@ -20,15 +20,18 @@
     <th>Project ⚙️</th>
     <th>Project's Charter 📝</th>
     <th>My role 🧑‍🏭</th>
+    <th>Stars ⭐</th>
   </tr>
   <tr>
     <td><a href="https://github.com/mochajs/mocha">mocha</a></td>
     <td>☕️ simple, flexible, fun javascript test framework for node.js & the browser</td>
     <td>Committer</td>
+    <td>22k</td>
   </tr>
   <tr>
     <td><a href="https://github.com/jestjs/jest">jest</a></td>
     <td>Jest is a delightful JavaScript Testing Framework with a focus on simplicity.</td>
     <td>Committer</td>
+    <td>43k</td>
   </tr>
 </table
